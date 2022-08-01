@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "C:\\Users\\beyaz\\osm_flutter\\example\\build\\url_launcher_android\\intermediates\\merged_res\\debug\\drawable-hdpi-v4\\notification_bg_normal.9.png",
+        "source": "C:\\Users\\beyaz\\.gradle\\caches\\transforms-3\\77368fcbe74f28065fdfe7b340d83da3\\transformed\\core-1.6.0\\res\\drawable-hdpi-v4\\notification_bg_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\beyaz\\osm_flutter\\example\\build\\url_launcher_android\\intermediates\\merged_res\\debug\\drawable-hdpi-v4\\notification_bg_low_normal.9.png",
+        "source": "C:\\Users\\beyaz\\.gradle\\caches\\transforms-3\\77368fcbe74f28065fdfe7b340d83da3\\transformed\\core-1.6.0\\res\\drawable-hdpi-v4\\notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\beyaz\\osm_flutter\\example\\build\\url_launcher_android\\intermediates\\merged_res\\debug\\drawable-hdpi-v4\\notification_bg_normal_pressed.9.png",
+        "source": "C:\\Users\\beyaz\\.gradle\\caches\\transforms-3\\77368fcbe74f28065fdfe7b340d83da3\\transformed\\core-1.6.0\\res\\drawable-hdpi-v4\\notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\beyaz\\osm_flutter\\example\\build\\url_launcher_android\\intermediates\\merged_res\\debug\\drawable-hdpi-v4\\notify_panel_notification_icon_bg.png",
+        "source": "C:\\Users\\beyaz\\.gradle\\caches\\transforms-3\\77368fcbe74f28065fdfe7b340d83da3\\transformed\\core-1.6.0\\res\\drawable-hdpi-v4\\notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\beyaz\\osm_flutter\\example\\build\\url_launcher_android\\intermediates\\merged_res\\debug\\drawable-hdpi-v4\\notification_bg_low_pressed.9.png",
+        "source": "C:\\Users\\beyaz\\.gradle\\caches\\transforms-3\\77368fcbe74f28065fdfe7b340d83da3\\transformed\\core-1.6.0\\res\\drawable-hdpi-v4\\notification_bg_low_pressed.9.png"
+    }
+]
